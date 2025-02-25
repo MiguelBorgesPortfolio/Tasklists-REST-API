@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/TP3-20240624/tp3-api-base/tp3-api-base/app.py" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/TP3-20240624/tp3-api-base/tp3-api-base/schema.sql" dialect="GenericSQL" />
+  </component>
+</project>
