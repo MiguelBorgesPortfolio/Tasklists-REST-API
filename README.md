@@ -1,4 +1,4 @@
-# Tasklists API
+# Tasklists API REST
 
 ## 📌 About the Project  
 Tasklists is a **Software-as-a-Service (SaaS) application** for **project and task management**.  
